@@ -1,4 +1,4 @@
-# Wandering-Frontiersman
+# Wandering Frontiersman
 ## MODLIST SUMMARY
 A list combining Tale of Two Wastelands with Fallout: The Frontier, allowing one to play through Fallout 3, Fallout New Vegas, and Fallout: The Frontier in one continuous save file. This list includes updated textures, gameplay improvements, and quality of life fixes.
 
@@ -70,6 +70,9 @@ Once Fallout 3 and New Vegas are installed, run them both once through Steam. Th
 
 * **Where's AWOP, New Vegas Bounties, or other content additions?**
 * The focus of this list is to create a stable TTW + The Frontier experience. This resulted in a prettier vanilla experience. Additional content mods may be added in the future if doing so does not destabilize the list.
+
+* **Can I add an ENB to this list?**
+* Adding an ENB is discouraged. This list was designed without an ENB and no support will be given for adding one. 
 
 * **Can I add or remove mods to this list?**
 * No. The Frontier has a very strict compatibility list which precludes adding a fair amount of popular mods. This is why BLEED and JSawyer are not included, among others. **IF YOU CHANGE THIS LIST IN ANY WAY YOU VOID ALL SUPPORT.**
