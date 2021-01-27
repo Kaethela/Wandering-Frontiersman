@@ -74,5 +74,5 @@ Once Fallout 3 and New Vegas are installed, run them both once through Steam. Th
 * **Can I add an ENB to this list?**
 * Adding an ENB is discouraged. This list was designed without an ENB and no support will be given for adding one. 
 
-* **Can I add or remove mods to this list?**
+* **Can I add or remove mods in this list?**
 * No. The Frontier has a very strict compatibility list which precludes adding a fair amount of popular mods. This is why BLEED and JSawyer are not included, among others. **IF YOU CHANGE THIS LIST IN ANY WAY YOU VOID ALL SUPPORT.**
