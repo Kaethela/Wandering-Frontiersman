@@ -37,6 +37,12 @@ Once Fallout 3 and New Vegas are installed, run them both once through Steam. Th
 13. Download [loadorder.txt](https://drive.google.com/file/d/1dWpzJmbreDCbo8s6Kx6pa4eKMCeXsAYx/view?usp=sharing) and place it in profiles > Wandering Frontiersman located in your Wandering Frontiersman install folder.
 14. Press F5 to refresh Mod Organizer 2. It should now reflect the updated TTW load order.
 
+## POST INSTALLATION INSTRUCTIONS
+1. Navigate to the Wandering Frontiersman installation folder.
+2. Open the folder named **Game Folder Files**
+3. Copy everything in this folder and paste it into your Fallout New Vegas folder (steam/steamapps/common/Fallout New Vegas)
+**DO NOT COPY PASTE THE FOLDER ITSELF. DO NOT COPY YOUR ENTIRE WANDERING FRONTIERSMAN FOLDER. COPY _ONLY_ THE FILES IN THE GAME FILES FOLDER.**
+
 ## BEFORE YOU BEGIN PLAYING
 * On the left panel is a mod entitled **lStewieAI's Tweaks** - this is a file loaded with options that change how the game plays. The most important setting in this file is experience rate. By default, the list will set it to 50% of base value. Feel free to change this as you wish.
 * Included in this list is a quick start mod that will skip all of the introductory Vault 101 gameplay and start you in the exit tunnel, where you can create your character. If you wish to experience the full Vault 101 beginning, disable the mod **Tale of Two Wastelands Quick Start.**
