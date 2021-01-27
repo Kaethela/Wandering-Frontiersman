@@ -41,6 +41,7 @@ Once Fallout 3 and New Vegas are installed, run them both once through Steam. Th
 1. Navigate to the Wandering Frontiersman installation folder.
 2. Open the folder named **Game Folder Files**
 3. Copy everything in this folder and paste it into your Fallout New Vegas folder (steam/steamapps/common/Fallout New Vegas)
+
 **DO NOT COPY PASTE THE FOLDER ITSELF. DO NOT COPY YOUR ENTIRE WANDERING FRONTIERSMAN FOLDER. COPY _ONLY_ THE FILES IN THE GAME FILES FOLDER.**
 
 ## BEFORE YOU BEGIN PLAYING
