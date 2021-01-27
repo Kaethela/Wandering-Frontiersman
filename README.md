@@ -34,7 +34,7 @@ Once Fallout 3 and New Vegas are installed, run them both once through Steam. Th
 10. Cut and Paste this folder into your Wandering Frontiersman mods folder.
 11. Open Mod Organizer 2, located in your Wandering Frontiersman install folder. 
 12. Press F5 to refresh the program, then enable the TTW mod install on the lefthand panel.
-13. Download [loadorder.txt](https://drive.google.com/file/d/17q_fUSbX85t3i7nnH2kNnufoBY8Il2tT/view?usp=sharing) and place it in profiles > Wandering Frontiersman located in your Wandering Frontiersman install folder.
+13. Download [loadorder.txt](https://drive.google.com/file/d/1dWpzJmbreDCbo8s6Kx6pa4eKMCeXsAYx/view?usp=sharing) and place it in profiles > Wandering Frontiersman located in your Wandering Frontiersman install folder.
 14. Press F5 to refresh Mod Organizer 2. It should now reflect the updated TTW load order.
 
 ## BEFORE YOU BEGIN PLAYING
