@@ -1,6 +1,4 @@
 # Wandering-Frontiersman
-January 27th, 2021 - Full Install ~33GB
-
 ## MODLIST SUMMARY
 A list combining Tale of Two Wastelands with Fallout: The Frontier, allowing one to play through Fallout 3, Fallout New Vegas, and Fallout: The Frontier in one continuous save file. This list includes updated textures, gameplay improvements, and quality of life fixes.
 
@@ -9,7 +7,7 @@ A list combining Tale of Two Wastelands with Fallout: The Frontier, allowing one
 * Clean, legally acquired installs of both Fallout 3 and Fallout New Vegas. **Both games must be installed on the same disk.**
 * A legally acquired copy of [Tale of Two Wastelands](https://taleoftwowastelands.com/dl)
 * A Nexusmods account. Nexus premium is **HIGHLY** recommended for automatic downloads.
-* 33GB Of free space. This figure does not include Fallout 3 or New Vegas installations.
+* 68GB Of free space. This figure does not include Fallout 3 or New Vegas installations.
 Once Fallout 3 and New Vegas are installed, run them both once through Steam. This will set up registry keys and allow Wabbajack to recognize them. Fallout 3 may not run - this is expected and normal.
 
 ## MODLIST INSTALLATION INSTRUCTIONS
