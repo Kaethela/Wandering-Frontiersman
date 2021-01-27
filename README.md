@@ -57,8 +57,8 @@ Once Fallout 3 and New Vegas are installed, run them both once through Steam. Th
     * Disable Activate After Unlock
 
 ## FREQUENTLY ASKED QUESTIONS
-* **Where's NVAC, CASM, or other required utilities?**
-* CASM's functionality has been replicated in lStewieAI's Tweaks. NVAC and other critical tools were included in The Frontier and did not need to be installed separately
+* **Where's NVTF, CASM, or other required utilities?**
+* CASM's functionality has been replicated in lStewieAI's Tweaks. NVTF and other critical tools were included in The Frontier and did not need to be installed separately
 
 * **Where's AWOP, New Vegas Bounties, or other content additions?**
 * The focus of this list is to create a stable TTW + The Frontier experience. This resulted in a prettier vanilla experience. Additional content mods may be added in the future if doing so does not destabilize the list.
